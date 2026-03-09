@@ -52,13 +52,9 @@ Este material é ideal para:
 
 # Database Schema
 
-```{=html}
-<p align="center">
-```
-`<img src="images/schema.png" width="800">`{=html}
-```{=html}
-</p>
-```
+![Database](images/AdventureWorksLT.png)
+
+
 O banco simula um sistema de vendas contendo tabelas como:
 
 -   Customer
@@ -99,9 +95,7 @@ Após instalar a extensão:
 3.  Escolha o tipo **SQLite**
 4.  Selecione o arquivo:
 
-```{=html}
-<!-- -->
-```
+
     database/adventureworks.db
 
 5.  Clique em **Connect**
@@ -110,14 +104,8 @@ Após instalar a extensão:
 
 # Conexão no VSCode
 
-```{=html}
-<p align="center">
-```
-`<img src="images/vscode_connection.png" width="800">`{=html}
-```{=html}
-</p>
-```
-
+![Extensão Database Client](images/Database_Client_Extension.png)
+![Conecando no Banco](images/sqlite_path.png)
 ------------------------------------------------------------------------
 
 # Executando Queries
@@ -151,17 +139,6 @@ Os exercícios incluem:
 -   Análise de vendas
 -   Problemas de negócio
 
-------------------------------------------------------------------------
-
-# Exemplo de Consulta
-
-```{=html}
-<p align="center">
-```
-`<img src="images/query_example.png" width="800">`{=html}
-```{=html}
-</p>
-```
 
 ------------------------------------------------------------------------
 
@@ -176,8 +153,3 @@ Após completar os exercícios você será capaz de:
 -   compreender modelagem relacional
 
 ------------------------------------------------------------------------
-
-# Licença
-
-Este projeto é destinado para fins educacionais.
-# Exercicios_SQLite
