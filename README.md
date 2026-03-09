@@ -52,7 +52,7 @@ Este material é ideal para:
 
 # Database Schema
 
-![Database](images/AdventureWorksLT.png)
+![Database](Images/AdventureWorksLT.png)
 
 
 O banco simula um sistema de vendas contendo tabelas como:
