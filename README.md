@@ -104,8 +104,8 @@ Após instalar a extensão:
 
 # Conexão no VSCode
 
-![Extensão Database Client](images/Database_Client_Extension.png)
-![Conecando no Banco](images/sqlite_path.png)
+![Extensão Database Client](Images/Database_Client_Extension.png)
+![Conecando no Banco](Images/sqlite_path.png)
 ------------------------------------------------------------------------
 
 # Executando Queries
